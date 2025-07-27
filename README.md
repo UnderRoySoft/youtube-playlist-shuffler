@@ -43,10 +43,9 @@ bashpython main_gui.py
 Click "Connect to YouTube" - browser will open
 Sign in and grant permissions
 Return to app - should show "Connected"
-You're ready to shuffle playlists!
+You are ready to shuffle playlists!
 
-How to Use
-
+### How to Use
 Connect: Click "Connect to YouTube" and authorize access
 Load: Click "Load Playlists" to see your YouTube playlists
 Select: Choose a playlist from the dropdown
@@ -54,12 +53,11 @@ Name: Enter a name for your new shuffled playlist
 Shuffle: Click "Shuffle & Create Playlist"
 Done: Check your YouTube account for the new playlist!
 
-Troubleshooting
-
+### Troubleshooting
 "FileNotFoundError: credentials.json" → Make sure you renamed and placed the credentials file correctly
 "No playlists found" → Ensure you have playlists in your YouTube account
 Authentication fails → Check internet connection and API credentials
 Quota exceeded → Wait until tomorrow (quotas reset daily) or request quota increase
 
-License
+### License
 This project is open source. Feel free to use and modify.
