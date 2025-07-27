@@ -10,7 +10,7 @@ A desktop application that shuffles your YouTube playlists and creates new rando
 - Simple, user-friendly interface
 
 ## Screenshots
-[Add screenshots of your app here]
+![alt text](image.png)
 
 ## Prerequisites
 - Python 3.8 or higher
