@@ -20,7 +20,6 @@ A desktop application that shuffles your YouTube playlists and creates new rando
 ## Installation Guide
 
 ### Step 1: Download the Project
-```bash
 git clone https://github.com/UnderRoySoft/youtube-playlist-shuffler.git
 cd youtube-playlist-shuffler
 
